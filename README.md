@@ -7,6 +7,8 @@ RFM stands for Recency, Frequency, and Monetary value, each corresponding to som
 
 ![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/Incontent_image.png)
 
+Businesses that lack the monetary aspect, like viewership, readership, or surfing-oriented products, could use engagement parameters instead of monetary factors. This results in using RFE - a variation of RFM. Furthermore, this engagement parameter could be defined as a composite value based on metrics such as bounce rate, visit duration, number of pages visited, time spent per page, etc.
+
 The Logistics Performance Index is reported by the World Bank in every two years. The LPI is based on a worldwide survey of stakeholders on the ground providing feedback on the logistics "friendliness" of the countries in which they operate and those with which they trade. They combine in-depth knowledge of the countries in which they operate with informed qualitative assessments of other countries where they trade and have experience of global logistics environment. In this data analysis project, I have explored the LPI dataset and used Tableau to create my own visualizations version.
 
 #### Dataset
@@ -26,5 +28,5 @@ Then I then tried to design this data by combining it by combining the data for 
 
 
 ## References
-- https://lpi.worldbank.org/international/global
+- https://clevertap.com/blog/rfm-analysis/
 - 
