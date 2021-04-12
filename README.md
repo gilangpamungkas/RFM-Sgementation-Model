@@ -5,7 +5,7 @@ This repository contains the analysis and visualizations of RFM Segmentation Mod
 #### About
 RFM stands for Recency, Frequency, and Monetary value, each corresponding to some key customer trait. These RFM metrics are important indicators of a customer's behaviour because frequency and monetary value affects a customer's lifetime value, and recency affects retention, a measure of engagement.
 
-[![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/Incontent_image.png)]
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/Incontent_image.png)
 
 The Logistics Performance Index is reported by the World Bank in every two years. The LPI is based on a worldwide survey of stakeholders on the ground providing feedback on the logistics "friendliness" of the countries in which they operate and those with which they trade. They combine in-depth knowledge of the countries in which they operate with informed qualitative assessments of other countries where they trade and have experience of global logistics environment. In this data analysis project, I have explored the LPI dataset and used Tableau to create my own visualizations version.
 
