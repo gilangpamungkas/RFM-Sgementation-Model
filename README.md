@@ -15,8 +15,9 @@ The data set from a sample of customer transactions of an e-commerce logistics s
 
 
 
-#### Summary
+#### Result
 
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/customer by orders.png)
 
 
 
