@@ -18,8 +18,12 @@ The data set from a sample of customer transactions of an e-commerce logistics s
 #### Result
 
 ![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/customer_by_order.png)
-
-
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/customer_segmentation.png)
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/frequency_monetary.png)
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/recency_frequency.png)
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/recency_vs_monetary.png)
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/rfm_heat_map.png)
+![visualization image](https://github.com/gilangpamungkas/RFM-Sgementation-Model/blob/main/rfm_histograms.png)
 
 
 ## References
